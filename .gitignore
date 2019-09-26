@@ -1,0 +1,9 @@
+__pycache__
+env/
+.idea/
+.vscode/
+staticfiles/
+.coverage/
+.coveragerc/
+D-ployez-votre-application-sur-un-serveur-comme-un-pro-/NUTELLA/nutella_stop/settings/production.py
+D-ployez-votre-application-sur-un-serveur-comme-un-pro-/NUTELLA/nutella_stop/staticfiles/
